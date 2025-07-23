@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USBtoUART")(type "KiCad")(uri "${KIPRJMOD}/libs/USBtoUART.kicad_sym")(options "")(descr ""))
+)
