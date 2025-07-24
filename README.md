@@ -93,20 +93,22 @@ The CP2102N chip allows customization of USB device descriptors including vendor
 4. Navigate to **USBXpress™ Device Configuratior** utility
 5. Configure device descriptors (Product String, Vendor and Product IDs, Serial Number, etc.) and save them to the device
 
-## Hardware Files
+## Project Files
 
-This repository contains complete hardware design files:
+This repository containes:
 
+- **KiCad Project**: [`USBtoUART.kicad_pro`](USBtoUART.kicad_pro) - Main KiCad project file
 - **Schematics**: [`USBtoUART.kicad_sch`](USBtoUART.kicad_sch) - Complete circuit design
 - **PCB Layout**: [`USBtoUART.kicad_pcb`](USBtoUART.kicad_pcb) - 2-layer PCB design
+- **Custom Libraries**: [`libs/`](libs/) - Project-specific symbols, footprints, and 3D models
 - **Bill of Materials**: [`bom/v1.0/USBtoUART.csv`](bom/v1.0/USBtoUART.csv) - Complete component list
 - **Interactive BOM**: [`bom/v1.0/ibom.html`](bom/v1.0/ibom.html) - Interactive Bill of Materials
 - **Gerber Files**: [`gerber/v1.0/`](gerber/v1.0/) - Manufacturing files
 - **Documentation**: 
   - **Schematic PDF**: [`doc/v1.0/USBtoUART_sch_v1.0.pdf`](doc/v1.0/USBtoUART_sch_v1.0.pdf)
   - **PCB Layout PDFs**: [`doc/v1.0/USBtoUART_brd_top_v1.0.pdf`](doc/v1.0/USBtoUART_brd_top_v1.0.pdf), [`doc/v1.0/USBtoUART_brd_bottom_v1.0.pdf`](doc/v1.0/USBtoUART_brd_bottom_v1.0.pdf), [`doc/v1.0/USBtoUART_brd_layers_v1.0.pdf`](doc/v1.0/USBtoUART_brd_layers_v1.0.pdf)
-  - **3D Model**: [`doc/v1.0/USBtoUART.step`](doc/v1.0/USBtoUART.step) - STEP file for mechanical design
-  - **Board Images**: [`doc/v1.0/`](doc/v1.0/) - High-resolution PNG images and X-ray views
+  - **3D Model**: [`doc/v1.0/USBtoUART.step`](doc/v1.0/USBtoUART.step) - 3D model of the assembled USBtoUART board
+  - **Board Images**: [`doc/v1.0/`](doc/v1.0/)
 
 ## Manufacturing
 
