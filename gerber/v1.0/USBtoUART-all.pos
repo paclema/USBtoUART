@@ -1,0 +1,38 @@
+### Footprint positions - created on 2025-07-24T11:06:41+0200 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                                 PosX       PosY       Rot  Side
+J2        PORT1                    PinHeader_1x10_P2.54mm_Vertical                      34.1850     1.4400   90.0000  bottom
+J4        PORT2                    PinHeader_1x10_P2.54mm_Vertical                      34.1850    19.2200   90.0000  bottom
+C1        0.1uF                    C_0805_2012Metric                                    22.7600     5.5800   90.0000  top
+C2        4.7uF                    C_0805_2012Metric                                    15.7400     9.4000   90.0000  top
+C3        0.1uF                    C_0805_2012Metric                                    17.7000     9.4000   90.0000  top
+C4        0.1uF                    C_0805_2012Metric                                    16.0300    13.0300   90.0000  top
+C5        4.7uF                    C_0805_2012Metric                                    17.9900    13.0300   90.0000  top
+C6        22uF                     C_0805_2012Metric                                    34.2500    11.7800  180.0000  top
+C7        4.7uF                    C_0805_2012Metric                                    34.2500    16.4400  180.0000  top
+D1        SS14/1N5819/S4/BAT760-7  SOD-123EP                                            11.9500     5.2800  180.0000  top
+D2        SP0503BAHT               SOT-143                                              12.1800     8.6400  180.0000  top
+D3        TX                       LED_0805_2012Metric                                  33.3875     7.4100    0.0000  top
+D4        RX                       LED_0805_2012Metric                                  33.3875     5.5100    0.0000  top
+D5        PWR                      LED_0805_2012Metric                                   3.4400     2.3900    0.0000  top
+J1        USB_C_Receptacle_USB2.0  USB_C_Receptacle_Molex_216990-001                     0.0000    10.3300  -90.0000  top
+J3        UART0                    PinHeader_1x06_P2.54mm_Vertical                      38.4600    16.6900    0.0000  top
+Q1        MUN5211DW1               SOT-363_SC-70-6                                      29.7200    15.5600  180.0000  top
+R1        2.2K                     R_0805_2012Metric                                     6.8000     2.3900  180.0000  top
+R2        5.1K                     R_0805_2012Metric                                     6.8000    18.2700    0.0000  top
+R3        5.1K                     R_0805_2012Metric                                     3.4400    18.2700    0.0000  top
+R4        22.1K                    R_0805_2012Metric                                    15.7400     5.5475  -90.0000  top
+R5        47.5K                    R_0805_2012Metric                                    17.6400     5.5475  -90.0000  top
+R6        4.7K                     R_0805_2012Metric                                    20.8300     5.5600   90.0000  top
+R7        1K                       R_0805_2012Metric                                    30.0275     7.4100    0.0000  top
+R8        1K                       R_0805_2012Metric                                    30.0275     5.5100  180.0000  top
+R9        10K                      R_0805_2012Metric                                    24.6900     5.5600  -90.0000  top
+R10       470R                     R_0805_2012Metric                                    30.6200    12.2500    0.0000  top
+R11       470R                     R_0805_2012Metric                                    30.6200    10.3500    0.0000  top
+R12       22R                      R_0805_2012Metric                                    12.5400    12.4100    0.0000  top
+R13       22R                      R_0805_2012Metric                                    12.5500    14.3100    0.0000  top
+U1        CP2102N-Axx-xQFN28       QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias    23.4800    11.6900    0.0000  top
+U2        XC6220B331ER             USP-6C                                               34.2000    14.0600  -90.0000  top
+## End
