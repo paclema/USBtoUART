@@ -4,6 +4,12 @@ A compact USB-C to UART bridge board based on the Silicon Labs CP2102N chip and 
 
 **Why this board?** Unlike typical USB-to-UART bridges, this board features a dedicated LDO regulator that supplies up to 1A at 3.3V, ensuring stable power delivery to the target board while providing reliable data communication.
 
+<p align="center" width="100%">
+  <a href="doc/v1.0/_DSC3896.JPG">
+    <img src="doc/v1.0/_DSC3896.JPG" alt="USBtoUART" width="600"/>
+  </a>
+</p>
+
 | Top View | 3D Rendering | Bottom View |
 |:--------:|:------------:|:-----------:|
 | [![USBtoUART Top View](doc/v1.0/USBtoUART_top.png)](doc/v1.0/USBtoUART_top.png) | [![USBtoUART 3D View](doc/v1.0/USBtoUART.png)](doc/v1.0/USBtoUART.png) | [![USBtoUART Bottom View](doc/v1.0/USBtoUART_bottom.png)](doc/v1.0/USBtoUART_bottom.png) |
