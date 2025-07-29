@@ -111,8 +111,8 @@ This repository containes:
 - **Interactive BOM**: [`bom/v1.0/ibom.html`](bom/v1.0/ibom.html) - Interactive Bill of Materials
 - **Gerber Files**: [`gerber/v1.0/`](gerber/v1.0/) - Manufacturing files
 - **Documentation**: 
-  - **Schematic PDF**: [`doc/v1.0/USBtoUART_sch_v1.0.pdf`](doc/v1.0/USBtoUART_sch_v1.0.pdf)
-  - **PCB Layout PDFs**: [`doc/v1.0/USBtoUART_brd_top_v1.0.pdf`](doc/v1.0/USBtoUART_brd_top_v1.0.pdf), [`doc/v1.0/USBtoUART_brd_bottom_v1.0.pdf`](doc/v1.0/USBtoUART_brd_bottom_v1.0.pdf), [`doc/v1.0/USBtoUART_brd_layers_v1.0.pdf`](doc/v1.0/USBtoUART_brd_layers_v1.0.pdf)
+  - **Schematic PDF**: [`doc/v1.0/USBtoUART_sch.pdf`](doc/v1.0/USBtoUART_sch.pdf)
+  - **PCB Layout PDFs**: [`doc/v1.0/USBtoUART_brd_top.pdf`](doc/v1.0/USBtoUART_brd_top.pdf), [`doc/v1.0/USBtoUART_brd_bottom.pdf`](doc/v1.0/USBtoUART_brd_bottom.pdf), [`doc/v1.0/USBtoUART_brd_layers.pdf`](doc/v1.0/USBtoUART_brd_layers.pdf)
   - **3D Model**: [`doc/v1.0/USBtoUART.step`](doc/v1.0/USBtoUART.step) - 3D model of the assembled USBtoUART board
   - **Board Images**: [`doc/v1.0/`](doc/v1.0/)
 
